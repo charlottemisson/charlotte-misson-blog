@@ -1,8 +1,8 @@
 [
   {
-    "path": "posts/2019-10-02-nom-de-votre-article/",
+    "path": "posts/origin_of_tomatoes/",
     "title": "Tomatoes at the origin",
-    "description": "THis post would describes the origins of the tomatoes. Geographic and genomic origins.",
+    "description": "This post would describes the origins of the tomatoes. Geographic and genomic origins.",
     "author": [
       {
         "name": "Misson Charlotte",
@@ -12,24 +12,6 @@
     "date": "2019-10-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-02T11:55:31+02:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
-    "description": {},
-    "author": [
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T10:48:54+02:00"
+    "last_modified": "2019-10-07T13:28:44+02:00"
   }
 ]

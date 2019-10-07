@@ -1,7 +1,7 @@
 ---
 title: "Tomatoes at the origin"
 description: |
-  THis post would describes the origins of the tomatoes. Geographic and genomic origins.
+  This post would describes the origins of the tomatoes. Geographic and genomic origins.
 author:
   - name: Misson Charlotte
     url: {}
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Geographic origin of tomatoes  
 Like potatoes, tomatoes went from South America, precisely from Perou at the very beginning.  
-The firt species of tomatoes seems to be a "cherry tomato" 
+The firt specie of tomatoes seems to be a "cherry tomato" 
 
 
 
