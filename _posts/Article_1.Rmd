@@ -1,0 +1,43 @@
+---
+title: "It's time!"
+author: "Misson Charlotte"
+date: "10/14/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Context  
+Some people in Herault (France) did analyse their urine, searching for an extreamly dangerous herbicid glyphosate.  
+*What is the results of analysis?*  
+**Every sample were positives for glyphosate!** The only difference is the rate of it in the samples.  
+  
+However the profile of "samples" is far from the results. For exemple, Gregory who's living as healthy as possible:  
+- He eats only biological products (except meat),  
+- He practices sport several hours a week,  
+Despite this, the analysis of Gregory reveals that the rate of glyphosate is more than three times higher than the authorized dose!  
+
+Angry at this results, 44 persons have filed a complaint at the republic persecutor of Montpellier. They are really upset against the politicians who accepted to renew the authorisation of salling and using that poison.   
+
+
+
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Bibliography

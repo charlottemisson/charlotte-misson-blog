@@ -1,5 +1,5 @@
 ---
-title: "Tell me about tomatoes..."
+title: "Emergence of permaculture"
 site: distill::distill_website
 listing: posts
 ---
