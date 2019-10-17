@@ -6,7 +6,7 @@ author:
   - name: Misson Charlotte
     url: {}
 date: 10-16-2019
-bibliography: Bibliography_article_1.bib
+bibliography: "biblio/glyphosate.bib"
 output:
   distill::distill_article:
     self_contained: false
@@ -20,7 +20,7 @@ Some people in Herault (France) did analyse their urine, searching for an extrea
 *What atre the results of analysis?*  
 **Every sample were positives for glyphosate!** The only difference is samples is the rate of the molecule.  
   
-However the profile of people who did that test is far from the results. For exemple [@article], Gregory who's living as healthy as possible:  
+However the profile of people who did that test is far from the results. For exemple [@ortegaCentainesPisseursVolontaires2019], Gregory who's living as healthy as possible:  
 - He eats only biological products (except meat),  
 - He practices sport several hours a week,  
 Despite this, the analysis of Gregory reveals that the rate of glyphosate is more than three times higher than the authorized dose!  
@@ -33,6 +33,7 @@ The possible consequences on animal health (including humans) is a huge debate i
 
 
 ### Method
+
 - The samples were pregnants rats.  
 - The stage of pregnancy is important : the study starts at day 6 of gestation. 
 - The rate of glyphosate used is the "safe dose" : 1.75mg/kg/day.  
@@ -43,10 +44,8 @@ Then, two groups were formed randomly :
 - Group 2 : the rats were sacrified at adulthood.
 
 ### Conclusion
+
 For US, the **safe rate** of herbicids contening glyphosate is **1.75mg/kg/day**. Apart from this average, scientists have prouved that a rate lower than the "safe rate" may have healthy consequences on a rat population. More precisealy, the problems are for reproduction and developpement.  
-
-
-## Bibliography 
 
 
 ## Glossary
@@ -58,9 +57,5 @@ For US, the **safe rate** of herbicids contening glyphosate is **1.75mg/kg/day**
 - pups = bébés rats  
 - adulthood = âge adulte
 
-
-
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Bibliography 
 
