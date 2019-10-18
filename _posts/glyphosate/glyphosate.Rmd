@@ -6,7 +6,6 @@ author:
   - name: Misson Charlotte
     url: {}
 date: 10-16-2019
-bibliography: "biblio/glyphosate.bib"
 output:
   distill::distill_article:
     self_contained: false
@@ -16,40 +15,48 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Context
-*What is glyphosate?*
-This chemical molecule is a powerful herbicid. It acts at the level of shikimate pathway (synthesis of amino acids) of several microorganisms as bacteria, virus, fungi.  
-The possible consequences on animal health (including humans) is a huge debate in the world. This present article, provided by Ramazzani Institute [@vincenzobranaGlobalGlyphosateStudy2019], shows the results of studiing glyphosate on exposed rats at the "safe rate".
+# Article analyse 1
 
-Aim of the study : analysing effects of an exposure at the safe dose.  
+## Name of the magazine + source URL
 
-### Method
+The study a analysed has been made by Ramazzini Institute.  
+https://glyphosatestudy.org/press-release/global-glyphosate-study-pilot-phase-shows-reproductive-and-developmental-effects-at-safe-dose/ 
 
-- The samples were pregnants rats.  
-- The stage of pregnancy is important : the study starts at day 6 of gestation. 
-- The rate of glyphosate used is the "safe dose" : 1.75mg/kg/day.  
+## Vacabulary
 
+| Words from the texte | Synonym/Explanation in English                                                            |     |
+| -------------------- | ----------------------------------------------------------------------------------------- | --- |
+| Broad spectrum       | The molecule acts again a wide range of microorganisms, it's not specific.                |     |
+| Weaning              | A period during which the baby stop eating he's mother milk and start eating other foods. |     |
+| Assessed             | Making a judgment by considering a situation or a person.                                 |     |
+| Offspring            | Your children.                                                                            |     |
+| Landmarks            | Objects or persons which are references.                                                  |     |
+| Pups                 | Babies of a species.                                                                      |     |
+|                      |                                                                                           |     |
+
+## Analysis table
+
+
+ - Researchers : A team working in Ramazzini Institute  
+ - Published in? : 12 march 2019  
+ - General topic : A study based on glyphosate which is administrated in rats at the human safe dose.  
+ - Procedure/what was examined? : The samples were pregnants rats.   
+The stage of pregnancy is important : the exposition starts at day 6 of gestation.  
+The rate of glyphosate used is the "safe dose" : 1.75mg/kg/day.  
 Pregnant rats were exposed to glyphosate by drinking water. Rats consommed the water from day 6 of gestation, to postanal day 120.  
+The samples came from the offspring of exposed rats. 
 Then, two groups were formed randomly :  
-- Group 1 : the rats were sacrified after puberty.  
-- Group 2 : the rats were sacrified at adulthood.
-The rats tissues were then analysed.
+Group 1 : the rats were sacrified after puberty.  
+Group 2 : the rats were sacrified at adulthood.
+The rats tissues were then analysed.  
 
-### Conclusion
 
-For U.S, the **safe rate** of herbicids contening glyphosate is **1.75mg/kg/day**. Apart from this average, scientists have prouved that a rate lower than the "safe rate" may have healthy consequences on a rat population. More precisealy, the problems arises for reproduction and developpement.  
+ - Conclusion/discovery? : For U.S, the **safe rate** of herbicids contening glyphosate is **1.75mg/kg/day**. Apart from this average, scientists have prouved that this dose of glyphosate may have healthy consequences on a rat population. More precisealy, the problems arises for reproduction and developpement of pupies (endocrine effetcs).  
+ - Remaining questions : Certainly but not specified in the article.  
+
+
+
+
 
 ![https://www.ecosia.org/images?q=glyphosate+fun#id=383D50EB8597F3D8CAB55493EA3910BAB72D6459](/media/sf_shared/projects/charlotte-misson-blog/_posts/glyphosate/glyphosate.jpg) 
   
-
-## Glossary
-- broad spectrum = large spectre
-- weaning = sevrage  
-- offspring = progéniture  
-- assessed = évalué  
-- landmarks = repères  
-- pups = bébés (rats)  
-- adulthood = âge adulte
-
-## Bibliography 
-
