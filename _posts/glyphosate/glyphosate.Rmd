@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Name of the magazine + source URL
 
-The study a analysed has been made by Ramazzini Institute.  
+The present study has been made by Ramazzini Institute.  
 https://glyphosatestudy.org/press-release/global-glyphosate-study-pilot-phase-shows-reproductive-and-developmental-effects-at-safe-dose/ 
 
 ## Vacabulary
