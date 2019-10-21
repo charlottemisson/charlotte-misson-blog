@@ -9,7 +9,7 @@ listing: posts
 #distill::create_post("") # use this fonction to create a new post
 ```
 
-  http://localhost:8787/rmd_output/1/permaculture.png
+  
   
 
 
