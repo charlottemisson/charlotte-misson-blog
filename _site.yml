@@ -3,7 +3,7 @@ title: "charlotte-misson-blog"
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Home" 
       href: index.html
     - text: "Miscellaneous"
       href: english-activity.html
