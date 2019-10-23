@@ -5,6 +5,7 @@ description: |
 author:
   - name: Misson Charlotte
 date: 10-16-2019
+preview: "glyphosate.jpg"
 output:
   distill::distill_article:
     self_contained: false
