@@ -4,7 +4,6 @@ description: |
   The omniprescence of glyphosate.
 author:
   - name: Misson Charlotte
-    url: {}
 date: 10-16-2019
 output:
   distill::distill_article:
@@ -20,9 +19,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Name of the magazine + source URL
 
 The present study has been made by Ramazzini Institute. 
-https://glyphosatestudy.org/press-release/global-glyphosate-study-pilot-phase-shows-reproductive-and-developmental-effects-at-safe-dose/ 
 
-## Vacabulary
+<https://glyphosatestudy.org/press-release/global-glyphosate-study-pilot-phase-shows-reproductive-and-developmental-effects-at-safe-dose/>
+
+## Vocabulary
 
 | Words from the texte | Synonym/Explanation in English                                                            |     |
 | -------------------- | ----------------------------------------------------------------------------------------- | --- |
@@ -55,8 +55,4 @@ The rats tissues were then analysed.
  - Remaining questions : Certainly but not specified in the article.  
 
 
-
-
-
-![https://www.ecosia.org/images?q=glyphosate+fun#id=383D50EB8597F3D8CAB55493EA3910BAB72D6459](/media/sf_shared/projects/charlotte-misson-blog/_posts/glyphosate/glyphosate.jpg) 
-  
+![https://www.ecosia.org/images?q=glyphosate+fun#id=383D50EB8597F3D8CAB55493EA3910BAB72D6459](glyphosate.jpg) 

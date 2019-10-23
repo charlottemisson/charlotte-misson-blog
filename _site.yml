@@ -14,6 +14,8 @@ navbar:
 base_url: http://charlottemisson.github.io/charlotte-misson-blog
 collections:
     posts:
-      disqus: charlotte-misson-blog
+      disqus:
+        shortname: charlotte-misson-blog
+        hidden: false
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
