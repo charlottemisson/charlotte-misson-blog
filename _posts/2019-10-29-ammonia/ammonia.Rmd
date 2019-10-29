@@ -25,16 +25,18 @@ The present study was made by Karlsruher Institut für Technologie (KIT).
 
 ## Vocabulary
 
-Topopause aerosol layer : a zone at the interface between the troposphere and stratosphere, containing an accumulation of aerosols.  
-Monsoon : seasonal period during which the weather changes : high winds, huge rainfall, occuring in Asia.  
-Remote sensing : analyses of a spatial structure surface (like earth), using tools which are spacecrafts evolvinf far from the target.  
-Nuclei : nucleus  
-Lifestock farming : raising animals (like cows, pigs,...) to provide meat, eggs, cheese,...to the population.  
-Flight path : the way that takes the aircraft during the fly.  
-Worldwide : in the whole world.  
-Limb : someone in a team.  
-Facility : installation.  
 
+| Words from the text     | Synonym/Explanation in English                                                                                       |     |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------- | --- |
+| Topopause aerosol layer | a zone at the interface between the troposphere and stratosphere, containing an accumulation of aerosols             |     |
+| Monsoon                 | seasonal period during which the weather changes : high winds, huge rainfall, occurring in Asia                      |     |
+| Remote sensing          | analyses of a spatial structure surface (like earth), using tools which are spacecrafts evolving far from the target |     |
+| Nuclei                  | Nucleus                                                                                                              |     |
+| Life stock farming      | raising animals (like cows, pigs,...) to provide meat, eggs, cheese,...to the population                             |     |
+| Flight path             | the way that takes the aircraft during the fly                                                                       |     |
+| Worldwide               | in the whole world                                                                                                   |     |
+| Limb                    | someone in a team                                                                                                    |     |
+| Facility                | Equipment installation                                                                                               |     |
 
 
 
@@ -45,6 +47,6 @@ Facility : installation.
  - General topic : ATAL (Asian Tropopause Aerosol Layer) has been study during the monsoon in Middle East of Asia.   
  - Procedure/what was examined?
       Exclusively for the study, an aircraft flew through the ATAL, that is to say at 18km above ground level.  To take measurments, the scientists used a lot of technological tools as GLORIA (using to quantify the infrared), MIPAS (using to quantify the waves interferances) or AIDA (a simulating chamber which provide the same conditions from 20km above ground level).  
- - Conclusion/discovery?  
- - Remaining questions?  
+ - Conclusion/discovery? It is the first time that scientist can prove the presence of ammonia in the ATAL during the Asian monsoon. The measurments show that the ammonia aerosol influences cloud formation. The ammonia aerosol come from the ground, preciasely from agriculture  : lifestock farming and land fertilization.  Another surprising result is that crystallin ammonia in the ATAL already existed before 1997 while ATAL was not supposed to exist yet.  The resuls have also been shown that the level of crystallin ammonia in ATAL increases during the monsoon. 
+ - Remaining questions? The influence of agricultural aerosol (ammonia is certainly not the only one) is one of the biggest uncertainties in climate modeling.   
 
