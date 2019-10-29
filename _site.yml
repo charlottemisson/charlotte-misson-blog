@@ -18,4 +18,5 @@ collections:
         shortname: charlotte-misson-blog
         hidden: false
       share: [twitter, linkedin, facebook]
+      subscribe: _subscribe.html
 output: distill::distill_article
