@@ -1,0 +1,50 @@
+---
+title: "Ammonia"
+description: |
+  Ammonia aerosol used in agriculture distrubs cloud formation over Asia.
+author:
+  - name: Misson Charlotte
+date: 10-29-2019
+preview : "cloud.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article analyse 2
+
+## Name of the magazine + source URL
+
+The present study was made by Karlsruher Institut für Technologie (KIT). 
+
+<https://www.sciencedaily.com/releases/2019/07/190711105636.htm>
+
+## Vocabulary
+
+Topopause aerosol layer : a zone at the interface between the troposphere and stratosphere, containing an accumulation of aerosols.  
+Monsoon : seasonal period during which the weather changes : high winds, huge rainfall, occuring in Asia.  
+Remote sensing : analyses of a spatial structure surface (like earth), using tools which are spacecrafts evolvinf far from the target.  
+Nuclei : nucleus  
+Lifestock farming : raising animals (like cows, pigs,...) to provide meat, eggs, cheese,...to the population.  
+Flight path : the way that takes the aircraft during the fly.  
+Worldwide : in the whole world.  
+Limb : someone in a team.  
+Facility : installation.  
+
+
+
+
+## Analysis table
+
+- Researchers : A team of Karlsruher Institut für Technologie (KIT).   
+ - Published in? 11 july 2019  
+ - General topic : ATAL (Asian Tropopause Aerosol Layer) has been study during the monsoon in Middle East of Asia.   
+ - Procedure/what was examined?
+      Exclusively for the study, an aircraft flew through the ATAL, that is to say at 18km above ground level.  To take measurments, the scientists used a lot of technological tools as GLORIA (using to quantify the infrared), MIPAS (using to quantify the waves interferances) or AIDA (a simulating chamber which provide the same conditions from 20km above ground level).  
+ - Conclusion/discovery?  
+ - Remaining questions?  
+
