@@ -1,0 +1,18 @@
+---
+title: "My english activities log : M.E.A.L"
+author:
+  - name: Misson Charlotte
+date: 11-05-2019
+preview : "english.png"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+To help me studiing metabolic biochemistry and genetic, I watch a lot of explanatory videos of these topics. The best one are in english!
+
+05/11/2019 : for cellular biology lab, we have to write a laboratory report about our experiment (transfection). To provide more informations and analyse correctly our results, we need to read some scientific articles which are written in english. 
