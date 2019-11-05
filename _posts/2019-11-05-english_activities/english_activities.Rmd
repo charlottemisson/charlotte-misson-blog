@@ -1,5 +1,7 @@
 ---
 title: "My english activities log : M.E.A.L"
+description : 
+  English activities
 author:
   - name: Misson Charlotte
 date: 11-05-2019

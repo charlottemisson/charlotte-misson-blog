@@ -2,6 +2,7 @@ name: "blog-template"
 title: "charlotte-misson-blog"
 output_dir: "docs"
 navbar:
+  logo: "images/epi_logo.jpg"
   right:
     - text: "Home" 
       href: index.html
