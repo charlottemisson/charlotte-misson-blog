@@ -1,0 +1,26 @@
+---
+title: "When the kidney are the victims"
+description: |
+  Agricultural workers and manual laborers present a mysterious kidney desease.
+author:
+  - name: Misson Charlotte
+date: 11-12-2019
+preview : "kidney.png"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article analyse 2
+
+## Name of the magazine + source URL
+
+University of Colorado Anschutz Medical Campus published in the *New England Journal of Medecine*. 
+
+https://www.sciencedaily.com/releases/2019/05/190508185839.htm
+
+## Vocabulary
