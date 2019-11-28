@@ -33,20 +33,19 @@ https://www.sciencedaily.com/releases/2019/03/190320120603.htm
 | grassland               | meadow                                                                                                                |     |
 | encountered             | faced to                                                                                                              |     |
 | obvious                 | clear                                                                                                                 |     |
-| vincinity               | neighborhood                                                                                                           |     |
-|             |                                                                                                              |     |
-| Underway                | Existing for now                                                                                                      |     |
-| Harvest                 | Action to collect the crop                                                                                            |     |
+| vincinity               | neighborhood                                                                                                          |     |
+| study emphasizes        | underlines                                                                                                            |     |
+
 
 
 ## Analysis table
 
 - Researchers : a team led by Prof. Jan-Christian Habel of the Department of Terrestrial Ecology of the Technical University of Munich and Prof. Thomas Schmitt, Director of the Senckenberg German Entomological Institute in Muencheberg in Brandenburg   
- - Published in? 8 may 2019  
- - General topic : Research about the increase of chronic kidney illness in an agricultural workers population, in a hot areas.  
- - Procedure/what was examined? The study as synthezised the literature about the topic.  They found that this chronic kidney illness appears more often (in a population of agricultural workers) when the climate is hot.  In the same time, they found that the use of nephrotoxic pesticides in hot areas is more dangerous, because of the risk of workers 's dehydratation.  One more cause of chronic kidney desease : the presence of heavy metals in the ground of some areas in the world, for example in Sri Lanka and Central America. There is still at less one cause of the chronic kidney desease : genetical coumponent in the agricultural workers.  
- - Conclusion/discovery? Poeple think that this chronic kidney desease linked to agricultural technics is confined in the south were the climat is hoter. But it is not. Indeed, the desease would already be present in our regions.  
- - Remaining questions? No questions, but recommendations to agricultural workers such as drink more fluids (being sure that the water is free from nephrotoxic molecules) and make adequate breaks in the shade.   
+ - Published in? 20 March 2019  
+ - General topic : On cause of butterflies mortality is the overuse of pesticides in modern agriculture.  
+ - Procedure/what was examined? Seventeen sites were examined, to account the number of butterflies species in. The scientists have compared areas encountered by fields sprayed by pesticides, and aeras which are not or less sprayed. They recorded 24 species and 864 individuals in a whole, distributed like this : 2.7 species in polluted areas per visit and 6.6 specides in unpolluted areas per visit.  
+ - Conclusion/discovery? In areas spayed by pesticides, the divertisity and amount of butterflies are lower than in natural areas.   
+ - Remaining questions? No questions, but it's clear that industrialized agriculture has a negative impact on butterfly fauna. We must have a thinking about that.    
 
 
 
