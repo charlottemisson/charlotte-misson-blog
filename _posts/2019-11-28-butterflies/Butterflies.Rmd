@@ -4,7 +4,7 @@ description: |
   The impact of modern agriculture on butterflies.
 author:
   - name: Misson Charlotte
-date: 11-12-2019
+date: 11-28-2019
 preview : "butterflies.png"
 output:
   distill::distill_article:
