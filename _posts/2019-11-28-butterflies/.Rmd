@@ -1,0 +1,21 @@
+---
+title: "Butterflies"
+description: |
+  The impact of modern agriculture on butterflies.
+author:
+  - name: Misson Charlotte
+date: 11-28-2019
+preview : "kidney.png"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
