@@ -1,7 +1,7 @@
 ---
 title: "Agriculture versus land"
 description: |
-  Agriculture is the main problem of land degradation, but it's one solution too!.
+  Agriculture is the main problem of land degradation, but it's one solution too!
 author:
   - name: Misson Charlotte
 date: 12-14-2019
@@ -45,11 +45,17 @@ https://blogs.scientificamerican.com/observations/farming-degrades-land-farming-
 
 ## Analysis table
 
-- Researchers :    
- - Published in?   
- - General topic :.  
- - Conclusion/discovery?    
- - Remaining questions?     
+- Researchers : FAO  Food and Agriculture Organization of United States.   
+ - Published in? 12 december 2019   
+ - General topic : Conventionnal agriculture causes real damages on soil. But agriculture can also be the solution to repair degradations on the land.   
+ - Conclusion/discovery?  The way farmers work on the land is really problematic  : their tractos till the land, causing over time degradations of it.  Moreover, this way to work causes runoff et decrase of the nutrients in the soil.  Thereby, crops are weak and need fertilization to grow and pesticids to resist. For example, in Africa, 65% of arable land is now degraded. Because of that, farmers need more and more money to get chemicals, while their yields are decreasing.  
+  
+ Finding solutions is a paramount need to continue cultivating the soil.  
+ So, think about agroforestery can offer! Mixing trees, livestock and crops, what a strange idea... But it's not!  
+ Indeed, all of them will collaborate, creating a symbiosis, such as forest. Moreover, think about what trees wan offer : firewood, construction materials, nuts and fruits.  
+ In Guatemala, politicians have heard this primary need : they voted a low which aims to plant nearly three hundred thoushand hectares of agroforestery! And they are right! 
+ 
+ - Remaining questions? A lot of, changing farmers mind to accept that conventionnal agriculture leads to earth death.  What a huge job!
 
 
 
