@@ -1,0 +1,57 @@
+---
+title: "Agriculture versus land"
+description: |
+  Agriculture is the main problem of land degradation, but it's one solution too!.
+author:
+  - name: Misson Charlotte
+date: 12-14-2019
+preview : "sol.png"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article analyse 5
+
+## Name of the magazine + source URL
+
+Magazine : *Scientific America*.
+
+https://blogs.scientificamerican.com/observations/farming-degrades-land-farming-can-also-bring-it-back/
+
+## Vocabulary
+
+| Words from the text     | Synonym/Explanation in English                                                                                       |     |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------- | --- |
+| livestock                 | Animals growing in farms, such as cows, chikens,...                                                                |     |
+| tilling                   | To plow                                                                                                            |     |
+| impaired                  | Damaged                                                                                                            |     |
+| root                      | Foundations of the tree.                                                                                           |     |
+| anchor soil               | The way to fix in the soil.                                                                                        |     |
+| pruned                    | cut                                                                                                                |     |
+| runoff                    | when water flow under the soil without impregnate it                                                               |     |
+| replenishing              | filling up again                                                                                                   |     |
+| fodder                    | feed for animals of the farm                                                                                       |     |
+| dip                       | to dive                                                                                                            |     |
+| maize                     | corn                                                                                                               |     |
+| paramount                 | primary                                                                                                            |     |
+| incentive                 | mativate                                                                                                           |     |
+| alongside                 | next to                                                                                                            |     |
+
+
+## Analysis table
+
+- Researchers :    
+ - Published in?   
+ - General topic :.  
+ - Conclusion/discovery?    
+ - Remaining questions?     
+
+
+
+
+
